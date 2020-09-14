@@ -43,6 +43,4 @@ This plugin was made purely for educational purposes. You hold the responsibilit
 -  `prune 10 739493961713975368`
 
 # Support
-
--  hellbound#9999
--  Support Server: https://discord.gg/pCc7q4Z
+- No support, he a faggot.
