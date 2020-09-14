@@ -14,7 +14,7 @@ This plugin was made purely for educational purposes. You hold the responsibilit
 
 # Installation
 
--  `git clone https://github.com/hellbound1337/message-cleaner.git`
+-  `git clone https://github.com/dran1x/Clear-messages.git`
 
 # Usage
 
