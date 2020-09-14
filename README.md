@@ -14,7 +14,7 @@ This plugin was made purely for educational purposes. You hold the responsibilit
 
 # Installation
 
--  `git clone https://github.com/dran1x/Clear-messages.git`
+-  `git clone https://github.com/Twizzer/clear-messages.git`
 
 # Usage
 
@@ -43,4 +43,5 @@ This plugin was made purely for educational purposes. You hold the responsibilit
 -  `prune 10 739493961713975368`
 
 # Support
-- No support, he a faggot.
+-  Twizzer#0001
+-  Support Server: https://discord.gg/pKx8m6Z
